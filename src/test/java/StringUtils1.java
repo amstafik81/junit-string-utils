@@ -1,6 +1,4 @@
-package main;
-
-public class StringUtils {
+public class StringUtils1 {
 
 	public boolean isValidZipCode(String zipCode) {
 		if (!zipCode.contains("-")) {
